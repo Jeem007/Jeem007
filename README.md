@@ -10,10 +10,12 @@
 </h1>
 
 
-
-
 - 🌱 I’m currently learning **Laravel, React Js**
-- 📫 How to reach me <p><a href="mailto:rakib.hasan.42005@gmail.com">Mail</a></p>
+
+<p align="center">
+  <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-niloy9896@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
+  
+</p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

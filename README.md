@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeem007&label=Profile%20views&color=0e75b6&style=flat" alt="jeem007" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Assalamualaikum;I+am+Md+Rakib+Hasan;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+,Assalamualaikum;I+am+Md+Rakib+Hasan;&center=true&size=30">
   </a>
 </h1>
 

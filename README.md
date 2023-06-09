@@ -1,3 +1,13 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=marufsha&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I+AM+Md+Rakib+Hasan;&center=true&size=30">
+  </a>
+</h1>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeem007&label=Profile%20views&color=0e75b6&style=flat" alt="jeem007" /> </p>
 
 <h1 align="center">Hi👋 I'm Md Rakib Hasan</h1>

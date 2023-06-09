@@ -3,13 +3,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Assalamualaikum;I+am+Md+Rakib+Hasan;&center=true&size=30">
   </a>
-  <span> <h3 align="center">A Tech Enthusiast from Bangladesh</h3></span>
+  <span> <h5 align="center">A Tech Enthusiast from Bangladesh</h5></span>
 </h1>
-
-
-
-
-
 
 - 🌱 I’m currently learning **Laravel, React Js**
 

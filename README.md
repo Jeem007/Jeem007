@@ -13,7 +13,7 @@
 
 
 - 🌱 I’m currently learning **Laravel, React Js**
-- 📫 How to reach me <p><a href="mailto:someone@example.com">Send email</a></p>
+- 📫 How to reach me <p><a href="mailto:rakib.hasan.42005@gmail.com">Mail</a></p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

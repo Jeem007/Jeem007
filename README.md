@@ -39,9 +39,6 @@
 </table>
 </p>
 
-<p align="center">
- <rakib.hasan.42005@gmail.com><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue">
-</p
  <p align="center">
   <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>

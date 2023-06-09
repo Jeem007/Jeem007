@@ -11,14 +11,7 @@
 
 
 - 🌱 I’m currently learning **Laravel, React Js**
--  <p >
-  <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
-  
-</p>
-<p align="center">
-  <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
-  
-</p>
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -37,7 +30,10 @@
      <td><p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeem007&" alt="jeem007" /></p></td>
  <tr> 
 </table>
- 
+
+ <p align="center">
+  <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
+</p>
 
 
 

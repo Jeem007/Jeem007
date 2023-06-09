@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&size=28&duration=3000&pause=550&color=00CCFF&background=3DFF1400&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hello%2C+Assalamualaikum;I'm+Md+Rakib+Hasan" />
  </a>
   <h3 align="center">
-   4th Year CSE studern at American International University-Bangladesh
+   4th Year Computer Science & Engineering studern at American International University-Bangladesh
  </h3>
  
 </h1>

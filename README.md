@@ -1,8 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeem007&label=Profile%20views&color=0e75b6&style=flat" alt="jeem007" /> </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?      font=Patua+One&pause=1000&color=66FF33&background=3DFF1400&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello%2C+Assalamualaikum;I'm+Md+Rakib+Hasan" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&pause=1000&color=66FF33&background=3DFF1400&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello%2C+Assalamualaikum;I'm+Md+Rakib+Hasan" alt="Typing SVG" /></a>
 </h1>
 
 - 🌱 I’m currently learning **Laravel, React Js**

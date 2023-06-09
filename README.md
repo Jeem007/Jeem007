@@ -4,9 +4,9 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&size=28&duration=4000&pause=550&color=00CCFF&background=3DFF1400&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hello%2C+Assalamualaikum;I'm+Md+Rakib+Hasan" />
  </a>
 <span>
- <h6 align="center">
+ <h5 align="center">
    4th Year CSE studern at American International University-Bangladesh
- </h6>
+ </h5>
  </span>
  
 </h1>

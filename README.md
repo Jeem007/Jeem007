@@ -31,6 +31,21 @@
  <tr> 
 </table>
 
+<p align="center">
+<table>
+  <tr>
+    <th>Profile Stats</th>
+    <th>Graph View</th>
+    <th>Language Contribution</th>
+  </tr>
+  <tr>
+    <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=marufsha&show_icons=true&theme=tokyonight" alt="marufsha"/></td>
+    <td><img alf="Devorein :: Graph View" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marufsha&theme=tokyonight"</td>
+    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufsha&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
+  </tr>
+</table>
+</p>
+
  <p align="center">
   <a href="mailto:rakib.hasan.42005@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakib.hasan.42005@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>

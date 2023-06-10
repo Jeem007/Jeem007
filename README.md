@@ -37,7 +37,6 @@
   <tr>
     <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=jeem007&show_icons=true&theme=tokyonight" alt="marufsha"/></td>
     <td><img alf="Devorein :: Graph View" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeem007&theme=tokyonight"</td>
-     <img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html">
     <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeem007&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
   </tr>
 </table>

@@ -3,6 +3,10 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Patua+One&size=28&duration=3000&pause=550&color=00CCFF&background=3DFF1400&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Hello%2C+Assalamualaikum;I'm+Md+Rakib+Hasan" />
  </a>
+ 
+ ![](https://media.licdn.com/dms/image/D4E16AQFnSOykHXQHQQ/profile-displaybackgroundimage-shrink_350_1400/0/1686385400743?e=1691625600&v=beta&t=fQ_QbbQL5lRF9q8aSkDoEl2BFQL06xkaq8sKcikWSVE)
+ 
+ 
   <h3 align="center">
    Final year student in Bachelors in Computer Science & Engineering (CSE) at <b> American International University-Bangladesh (AIUB) </b>
  </h3>

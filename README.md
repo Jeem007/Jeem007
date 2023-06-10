@@ -6,7 +6,6 @@
  
  ![](https://media.licdn.com/dms/image/D4E16AQFnSOykHXQHQQ/profile-displaybackgroundimage-shrink_350_1400/0/1686385400743?e=1691625600&v=beta&t=fQ_QbbQL5lRF9q8aSkDoEl2BFQL06xkaq8sKcikWSVE)
  
- 
   <h3 align="center">
    Final year student in Bachelors in Computer Science & Engineering (CSE) at <b> American International University-Bangladesh (AIUB) </b>
  </h3>

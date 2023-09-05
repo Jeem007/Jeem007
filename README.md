@@ -15,8 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel, React Js**
 - 📄 Know about me [https://jeem007.github.io/Portfolio/](https://jeem007.github.io/Portfolio/)
-- 📄 Checkout my resume [https://jeem007.github.io/Portfolio/](https://jeem007.github.io/Portfolio/)
-
+- 📄 Checkout my resume https://drive.google.com/file/d/1_FLYipCnm6NzbALbNzJ7VYaVYzuxKVqV/view?usp=sharing
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-rakib-hasan-12b1a0279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakib-hasan-12b1a0279" height="30" width="40" /></a>

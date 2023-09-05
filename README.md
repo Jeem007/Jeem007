@@ -15,6 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel, React Js**
 - 📄 Know about me [https://jeem007.github.io/Portfolio/](https://jeem007.github.io/Portfolio/)
+- 📄 Checkout my resume [https://jeem007.github.io/Portfolio/](https://jeem007.github.io/Portfolio/)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
